@@ -45,7 +45,7 @@ cd Zopher
 
 ```
 yarn add aws-amplify aws-amplify-react-native
-
+ 
 # or
 
 npm install aws-amplify aws-amplify-react-native
